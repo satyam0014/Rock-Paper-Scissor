@@ -7,9 +7,9 @@ h1{
     color: blanchedalmond;
     background-color: black;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size:4vw;
+    font-size:5vw;
     text-align: center;
-    line-height: 4rem;
+    line-height: 15vmin;
 }
 .choices{
     display: flex;
